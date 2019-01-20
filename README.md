@@ -8,6 +8,7 @@ Le but est d'obtenir un affichage **plus clair** du *dossier* dans lequel nous s
 Mais ce n'est pas le seul objectif. Soyons honnête, il est plus agréable de travailler sur un terminale coloré et clair que sur une fenêtre noire et blanche toute moche! Vous verrez, on se sent comme un vrais Hacker avec un terminal comme ça! 😝
 
 Personne ne veut se retrouver à taper des heures sur un terminal que ressemble à ça:
+
 ![terminal mac](screen/screen1.jpg)
 
 
@@ -19,7 +20,7 @@ Déja mieux non? Alors c'est partit!
 
 ### 1. installer ITerm2
 Nous allons remplacer notre vieux terminal tout moisi (mais bien meilleur que celui de windows quand même hein 😉) par un super terminal ultra performant! Pour cela, nous allons nous rendre sur le site d'[Iterm 2](https://www.iterm2.com/). cliquer sur download, enregister le fichier .zip et l'ouvrire.
-![download iterm2](screen/screen2.jpg)
+![download iterm2](screen/screen2.jpeg)
 
 Nous nous retrouvons avec l'appliquation super! Sauf que normalement elle se trouve dans nos téléchargement et ce n'est pas vraiment ce qu'on veut... Nous allons donc la déplacer dans le dossier application.
 ![move iterm2 to apps](screen/screen3.jpg)
@@ -36,7 +37,7 @@ Je vais pas m'étendre plus que ça sur les gestionnaire de paquets, si ça vous
 Asser discuter, tapons la commande qui permet de l'installer directement depuis le terminal *(nous allons désormais remplacer le terminal par ITerm2, donc quand je parlerai de terminal ça voudra dire Iterm2)* :
 `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 
-![HomeBrew install](screen/screen5)
+![HomeBrew install](screen/screen5.jpg)
 
 
 
