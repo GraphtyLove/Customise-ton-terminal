@@ -35,6 +35,7 @@ Et bien c'est un gestionnaire de paquet. C'est à dire que ça va vous permettre
 Je vais pas m'étendre plus que ça sur les gestionnaire de paquets, si ça vous interesse je vous recommande cette page [Wikipédia](https://fr.wikipedia.org/wiki/Gestionnaire_de_paquets).
 
 Asser discuter, tapons la commande qui permet de l'installer directement depuis le terminal *(nous allons désormais remplacer le terminal par ITerm2, donc quand je parlerai de terminal ça voudra dire Iterm2)* :
+
 `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 
 ![HomeBrew install](screen/screen5.jpg)
