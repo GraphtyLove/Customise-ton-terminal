@@ -115,6 +115,7 @@ Ces polices sont faites pour afficher de jolies flèches dans le terminale. Alor
 
 ![Settings iterm2](screen/screen17.jpg)
 ![change font](screen/screen18.jpg)
+
 Vous avez ensuite le choix entre une multitude de polices mais ne choississez qu'une police où il est précisé `for Powerline` sinon vous vous retrouverez avec des points d'interogations tout moches dans votre super terminal (ce serait dommage non?). Je vous consseille fortement `Melso LG L DZ for powerline`
 
 ![select font](screen/screen19.jpg)
@@ -130,9 +131,11 @@ Pour changer le thème, on va ouvrire le fichier de configuration de ZSH. Pour c
 Puis, on change `ZSH_THEME=" "` avec la valeur `agnoster`
 
 ![change theme](screen/screen16.jpg)
+
 On relancer **complètement** ITerm2 et voilà ce qu'on obtient:
 
 ![new theme](screen/screen20.jpg)
+
 ça prend forme!
 
 ##### 2. Changer le background
@@ -140,6 +143,7 @@ Le noir en arrière plan je sais pas vous mais moi ça me plait pas trop... Chan
 On retourne dans `Iterm2 > preferences` puis on va dans l'onglet `profiles > colors` et on double click sur `background` pour changer la couleur.
 
 ![change bg-color](screen/screen21.jpg)
+
 On choisi ce la couleur qui nous plait (je vous conseille un joli `gray 40%`)
 Et voilà le travaille:
 
@@ -152,13 +156,16 @@ On va rendre tout ça encore plus beau grâce aux colors schemes, il en existe d
 On se rend sur [ce repos](https://github.com/mbadolato/iTerm2-Color-Schemes) et on le télécharge en ZIP.
 
 ![DL colors schemes](screen/screen23.jpg)
+
 Les colors schemes se trouvent dans le dossier *"Schemes"*  il y en a pleins et ils se finissent tous par l'extention `.itermcolors`.
 On va les importer directement dans ITerm2, pour ce faire on va dans `ITerm2 > Preferences > Profiles > Colors > Color Presets > Import`
 
 ![Import schemes](screen/screen24.jpg)
+
 On va ensuite dans le dossier `Téléchargement > ITerm2-.... (le dossier qu'on vient de télécharger) > schemes` On séléctionne tout grâce à command + a et on clique sur import.
 
 ![add schemes](screen/screen25.jpg)
+
 Ensuite il suffit de séléctionner `Argonaut` *(qui est juste magnigique) ou un autre qui vous plaira et le tour est joué! Le preset Batman est très joli aussi 😉.
 
 Argonaut:
@@ -168,6 +175,7 @@ Argonaut:
 Batman:
 
 ![Batman preset](screen/screenbatman.jpg)
+
 > La coloration des commandes est gerée par un plugin que nous installerons après.
 
 Et voilà! Vous avez un super terminal surpuissant!
@@ -177,6 +185,7 @@ Pour terminer en beauté nous allons installer un plugin qui colorise nos comman
 Un petit exemple:
 
 ![color plugin](screen/screen30.jpg)
+
 Sympa non?
 
 ##### 1. Clonner le repo du plugin et l'installer dans ZSH. Le tout en une commande!
