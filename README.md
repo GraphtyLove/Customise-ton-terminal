@@ -201,7 +201,7 @@ Ensuite, on l'ajoute à la liste des plugins. On le redémarre et le tour est jo
 
 ![add plugin](screen/screen29.jpg)
 
-Et voilà. On a mainteant un super terminal très clair grâce à `ITerm2`, `ZSH`, `Ho My ZSH` `ITerm2-colors-schemes` !
+Et voilà. On a mainteant un super terminal très clair grâce à `ITerm2`, `ZSH`, `Ho My ZSH` et `ITerm2-colors-schemes` !
 
 Si vous avez des questions n'hésitez pas à me contacter! :)
 
