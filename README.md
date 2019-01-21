@@ -45,24 +45,27 @@ Asser discuter, tapons la commande qui permet de l'installer directement depuis 
 
 ![HomeBrew succes](screen/screen8.jpg)
 
-*Il est possible que vous ayez une erreur Xcode, dans ce cas, installez Xcode grâce à cette commande: `xcode-select --install`
+*Il est possible que vous ayez une erreur Xcode, dans ce cas, installez Xcode grâce à cette commande: `xcode-select --install`.
 Super, Homebrew est installer!
 
 ### 3. Installer ZSH
 Nous allons maintenant installer ZSH. Non non, ce n'est pas un groupe de rap à la mode. C'est un shell Unix. En gros c'est une super amélioration du terminal trop pratique! Pour les curieux, voir [cette page wikipédia](https://fr.wikipedia.org/wiki/Z_Shell).
-Prêt ? A vos claviers, installez!
+A vos claviers, prêt ? Installez!
 
 `brew install zsh`
 
 Une fois l'installation démarrée, on vous demandera de `press RETURN` donc d'appuier sur entrer. 
 
 ![press RETURN](screen/screen6.jpg)
+
 Une fois cette tâche d'un haute complexité accomplie avec succès, entrez votre mot de passe de session.
 
 ![password required](screen/screen7.jpg)
+
 Félicitation! Vous avez installé ZSH avec brio.
 
 ![install succes](screen/screen9.jpg)
+
 Maintenant qu'il est installé, activons le avec la commande :
 `chsh -s /usr/local/bin/zsh`
 Puis, redémarrer l'ordinateur. Mais n'oubliez pas de revenir... Enfin ce serait sympa quoi...
@@ -71,6 +74,7 @@ L'activation devrait avoir fonctionné. Pour le vérifier, tapons `echo $0`
 Si on obtient zsh en réponse, c'est que tout à bien fonctionné. 
 
 ![activate zsh succes](screen/screen10.jpg)
+
 Si on obtient `bash` c'est que ça n'a pas marché. Dans ce cas, tapez : `chsh -s /bin/zsh` ça devrait régler le problème. Redémarez votre machine et tapez `echo $0` cette fois ci, le terminal devrait vous retourner `zsh` .
 
 Yeah! une étape de plus vers votre super terminal de hacker!
@@ -82,20 +86,22 @@ Cette fois ci, c'est super simple, on tape la commande d'installation et le term
 `sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"``
 
 ![install hoMyZsh](screen/screen11.jpg)
+
 On ferme Iterm2 **(complètement)** et on le relance.
 
 ![hoMyZsh succes](screen/screen12.jpg)
+
 >A ce stade votre ITerm2 devrait ressembler à ça.
 
-Voilà. Ho My ZSH est installé.
+**Voilà. Ho My ZSH est installé.**
 
 ### 5. Changer le thème et installer les polices
 Le plus gros est fait! Nous allons maitenant installer un thème et les polices qui vont avec.
 Il existe pleins de thèmes pour Ho My ZSH. Je vais vous en présenter un en particulier mais si vous voulez avoir un aperçus de ce qui existe [allez jeter un oeil par ici](https://github.com/robbyrussell/oh-my-zsh/wiki/Themes).
 
 #### Première étape: installer et changer la police
-    1. Installer les polices [Powerline fonts](https://github.com/powerline/fonts)
-Pour ce faire, nous allons cloner un repo qui contient des polices spéciales nommées **Powerline**. Puis nous allons les rentrer dans le repo et enfin les installer.
+1. **Installer les polices Powerline fonts**
+Pour ce faire, nous allons cloner un [repo](https://github.com/powerline/fonts)) qui contient des polices spéciales nommées **Powerline**. Puis nous allons les rentrer dans le repo et enfin les installer.
 
 ```git clone https://github.com/powerline/fonts.git
 cd fonts
@@ -104,7 +110,7 @@ cd fonts
 
 ![install fonts](screen/screen14.jpg)
 
-    2. Changer la police
+2. Changer la police
 Ces polices sont faites pour afficher de jolies flèches dans le terminale. Alors il y en a pleins, on va en choisire une et pour ce faire, on va aller dans Iterm2 puis dans le menu `ITerm2 > Preferences`  puis dans l'onglet `Profiles > Text` puis cliquer sur `Change Font`.
 
 ![Settings iterm2](screen/screen17.jpg)
