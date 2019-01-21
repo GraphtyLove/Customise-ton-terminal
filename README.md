@@ -103,7 +103,8 @@ Il existe pleins de thèmes pour Ho My ZSH. Je vais vous en présenter un en par
 ##### 1. **Installer les polices Powerline fonts**
 Pour ce faire, nous allons cloner un [repo](https://github.com/powerline/fonts)) qui contient des polices spéciales nommées **Powerline**. Puis nous allons les rentrer dans le repo et enfin les installer.
 
-```git clone https://github.com/powerline/fonts.git
+```
+git clone https://github.com/powerline/fonts.git
 cd fonts
 ./install.sh
 ```
@@ -128,7 +129,7 @@ Pour changer le thème, on va ouvrire le fichier de configuration de ZSH. Pour c
 
 ![open .zshrc](screen/screen15.jpg)
 
-Puis, on change `ZSH_THEME=" "` avec la valeur `agnoster`
+Puis, on change `ZSH_THEME=" "` avec la valeur `Agnoster`
 
 ![change theme](screen/screen16.jpg)
 
@@ -136,7 +137,7 @@ On relancer **complètement** ITerm2 et voilà ce qu'on obtient:
 
 ![new theme](screen/screen20.jpg)
 
-ça prend forme!
+Ça prend forme!
 
 ##### 2. Changer le background
 Le noir en arrière plan je sais pas vous mais moi ça me plait pas trop... Changons ça!
@@ -152,12 +153,14 @@ Et voilà le travaille:
 ### Donner du style à ITerm2 grâce aux colors schemes!
 On va rendre tout ça encore plus beau grâce aux colors schemes, il en existe de centaines tous diffénts, alors testez les et trouver celui qui est fait pour vous!
 
-    1. Télécharger les colors schemes
+#### 1. Télécharger les colors schemes
 On se rend sur [ce repos](https://github.com/mbadolato/iTerm2-Color-Schemes) et on le télécharge en ZIP.
 
 ![DL colors schemes](screen/screen23.jpg)
 
 Les colors schemes se trouvent dans le dossier *"Schemes"*  il y en a pleins et ils se finissent tous par l'extention `.itermcolors`.
+
+#### 2. Importer les colors schemes
 On va les importer directement dans ITerm2, pour ce faire on va dans `ITerm2 > Preferences > Profiles > Colors > Color Presets > Import`
 
 ![Import schemes](screen/screen24.jpg)
@@ -166,13 +169,14 @@ On va ensuite dans le dossier `Téléchargement > ITerm2-.... (le dossier qu'on 
 
 ![add schemes](screen/screen25.jpg)
 
+#### 3. Séléctionner son color scheme
 Ensuite il suffit de séléctionner `Argonaut` *(qui est juste magnigique) ou un autre qui vous plaira et le tour est joué! Le preset Batman est très joli aussi 😉.
 
-Argonaut:
+*Argonaut:*
 
 ![Argonaut preset](screen/screen27.jpg)
 
-Batman:
+*Batman:*
 
 ![Batman preset](screen/screenbatman.jpg)
 
