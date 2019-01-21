@@ -100,7 +100,7 @@ Le plus gros est fait! Nous allons maitenant installer un thème et les polices 
 Il existe pleins de thèmes pour Ho My ZSH. Je vais vous en présenter un en particulier mais si vous voulez avoir un aperçus de ce qui existe [allez jeter un oeil par ici](https://github.com/robbyrussell/oh-my-zsh/wiki/Themes).
 
 #### Première étape: installer et changer la police
-1. **Installer les polices Powerline fonts**
+##### 1. **Installer les polices Powerline fonts**
 Pour ce faire, nous allons cloner un [repo](https://github.com/powerline/fonts)) qui contient des polices spéciales nommées **Powerline**. Puis nous allons les rentrer dans le repo et enfin les installer.
 
 ```git clone https://github.com/powerline/fonts.git
@@ -110,7 +110,7 @@ cd fonts
 
 ![install fonts](screen/screen14.jpg)
 
-2. Changer la police
+##### 2. **Changer la police**
 Ces polices sont faites pour afficher de jolies flèches dans le terminale. Alors il y en a pleins, on va en choisire une et pour ce faire, on va aller dans Iterm2 puis dans le menu `ITerm2 > Preferences`  puis dans l'onglet `Profiles > Text` puis cliquer sur `Change Font`.
 
 ![Settings iterm2](screen/screen17.jpg)
@@ -121,7 +121,7 @@ Vous avez ensuite le choix entre une multitude de polices mais ne choississez qu
 
 #### Deuxième étape changer le thème et le background de ITerm2
 
-    1. Changer le thème
+##### 1. Changer le thème
 Pour changer le thème, on va ouvrire le fichier de configuration de ZSH. Pour ce faire :
 `open ~/.zshrc`
 
@@ -135,7 +135,7 @@ On relancer **complètement** ITerm2 et voilà ce qu'on obtient:
 ![new theme](screen/screen20.jpg)
 ça prend forme!
 
-    2. Changer le background
+##### 2. Changer le background
 Le noir en arrière plan je sais pas vous mais moi ça me plait pas trop... Changons ça!
 On retourne dans `Iterm2 > preferences` puis on va dans l'onglet `profiles > colors` et on double click sur `background` pour changer la couleur.
 
@@ -179,10 +179,10 @@ Un petit exemple:
 ![color plugin](screen/screen30.jpg)
 Sympa non?
 
-    1. Clonner le repo du plugin et l'installer dans ZSH. Le tout en une commande!
+##### 1. Clonner le repo du plugin et l'installer dans ZSH. Le tout en une commande!
 `git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting`
 
-    2. Activer le plugin
+##### 2. Activer le plugin
 Pour ce faire, on va dans le dossier de configuration `~/.zshrc` grâce à la commande `open ~/.zshrc`
 Ensuite, on l'ajoute à la liste des plugins. On le redémarre et le tour est joué!
 
