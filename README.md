@@ -14,4 +14,5 @@ Vous trouverez donc [**un tuto pour Mac**](Mac-tuto.MD) et **un tuto pour Linux*
 ## Crédits
 Je me suis largement inspiré de ces super tutos en anglais faits par [rajaraodv](https://medium.freecodecamp.org/@rajaraodv): 
 > [Jazz Up Your “ZSH” Terminal In Seven Steps — A Visual Guide](https://medium.freecodecamp.org/jazz-up-your-zsh-terminal-in-seven-steps-a-visual-guide-e81a8fd59a38)
+
 > [How to Jazz Up Your Bash Terminal — A Step By Step Guide With Pictures](https://medium.freecodecamp.org/jazz-up-your-bash-terminal-a-step-by-step-guide-with-pictures-80267554cb22)
