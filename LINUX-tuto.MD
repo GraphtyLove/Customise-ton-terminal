@@ -66,7 +66,7 @@ On quite le terminal, on le relance et la magie opère. On y est presque!
 Pour terminer en beauté nous allons installer un plugin qui colorise nos commandes.
 Un petit exemple:
 
-![color plugin](screen/screen13.png)
+![color plugin](screen/linux/screen13.png)
 
 Sympa non?
 
@@ -80,7 +80,7 @@ Ensuite, on l'ajoute à la liste des plugins.
 `zsh-syntax-highlighting`
 On le redémarre et le tour est joué!
 
-![add plugin](screen/screen12.png)
+![add plugin](screen/linux/screen12.png)
 
 Et voilà. On a mainteant un super terminal très clair grâce à `ZSH` et `Ho My ZSH` !
 
