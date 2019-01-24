@@ -12,7 +12,12 @@ Personne n'a envie de taper en core moins d'apprendre à se servir d'un terminal
 
 Alors que dans celui-là... Ça donne déjà plus envie je trouve...
 
-![preview terminal](screen/screen-presentation.jpg)
+## Mac:
+
+![preview terminal Mac](screen/screen-presentation.jpg)
+
+## Linux;
+![preview terminal linux](screen/linux/screen13.png)
 
 ## Crédits
 Je me suis largement inspiré de ces super tutos en anglais faits par [Rajaraodv](https://medium.freecodecamp.org/@rajaraodv): 
