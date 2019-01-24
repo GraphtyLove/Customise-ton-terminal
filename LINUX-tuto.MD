@@ -52,7 +52,7 @@ Pour ça, on va utiliser `nano`. Tout le monde s'en souviens? C'est l'éditeur d
 
 Une fois dans le fichier, on va changer le thème. Il suffit de changer la valeur de `ZSH_THEME="Robbyrussel"` pour y mettre: 
 
-`ZSH_THEME="agnoster"
+`ZSH_THEME="agnoster"`
 
 ![change theme](screen/linux/screen8.png)
 
@@ -70,7 +70,7 @@ Un petit exemple:
 
 Sympa non?
 
-##1. Clonner le repo du plugin et l'installer dans ZSH. Le tout en une commande!
+## 1. Clonner le repo du plugin et l'installer dans ZSH. Le tout en une commande!
 `git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting`
 
 ## 2. Activer le plugin
