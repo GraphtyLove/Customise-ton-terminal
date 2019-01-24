@@ -1,7 +1,10 @@
 # Cusomiser son terminal
 En tant que développer on passe beaucoup de temps dans son terminal. Il est donc important (surtout quans on apprend à s'en servir) d'avoir un terminal clair dans lequel on peut tout de suite repérer dans quelle dossier on se trouve, dans quelle branche git,...
 
-Vous trouverez donc [**un tuto pour Mac**](Mac-tuto.MD) et **un tuto pour Linux**. Quand aux utilisateurs Windows, il va falloir faire une petite manip avant de suivre le tuto qui s'appelle `installer Linux`. Puis suivre le tuto Linux 😉.
+Vous trouverez donc [**un tuto pour Mac**](Mac-tuto.MD) et [**un tuto pour Linux**](LINUX-tuto.MD). Quand aux utilisateurs Windows, il va falloir faire une petite manip avant qui s'appelle `installer Linux`. Puis suivre le tuto Linux 😉.
+
+# [Tuto Mac](Mac-tuto.MD)
+# [Tuto Linux](LINUX-tuto.MD)
 
 Personne n'a envie de taper en core moins d'apprendre à se servir d'un terminal comme ça:
 
