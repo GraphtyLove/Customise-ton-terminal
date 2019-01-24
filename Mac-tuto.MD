@@ -188,7 +188,9 @@ Sympa non?
 
 ##### 2. Activer le plugin
 Pour ce faire, on va dans le dossier de configuration `~/.zshrc` grâce à la commande `open ~/.zshrc`
-Ensuite, on l'ajoute à la liste des plugins. On le redémarre et le tour est joué!
+Ensuite, on l'ajoute à la liste des plugins. 
+`zsh-syntax-highlighting`
+On le redémarre et le tour est joué!
 
 ![add plugin](screen/screen29.jpg)
 
