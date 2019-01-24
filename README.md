@@ -16,7 +16,7 @@ Alors que dans celui-là... Ça donne déjà plus envie je trouve...
 
 ![preview terminal Mac](screen/screen-presentation.jpg)
 
-## Linux;
+## Linux:
 ![preview terminal linux](screen/linux/screen13.png)
 
 ## Crédits
