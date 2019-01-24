@@ -74,7 +74,7 @@ Yeah! une étape de plus vers votre super terminal de hacker!
 Encore? Bah oui je vous l'ai dis, ce n'est pas seulement un bon terminal c'est un super terminal! Ho My ZSH est un plugin pour dopper zsh.
 
 Cette fois ci, c'est super simple, on tape la commande d'installation et le terminal s'occupe du reste.
-`sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"``
+`sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
 
 ![install hoMyZsh](screen/screen11.jpg)
 
