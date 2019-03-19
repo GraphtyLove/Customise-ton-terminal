@@ -13,7 +13,7 @@ Nous allons changer le shell *bash* de base pour passer à *ZSH* qui est plus pu
 
 Le terminal va nous demander notre *mot de passe*, puis vérifier que nous sommes sur de vouloir installer ZSH.
 
-![install ZSH](screen/linux/screen3.jpg)
+![install ZSH](screen/linux/screen3.png)
 ![install ZSH mot de passe](screen/linux/screen4.png)
 
 Parfait! ZSH est installé.
@@ -28,7 +28,7 @@ Ou, si ça ne fonctionne pas:
 
 Le terminal va vous demander votre mot de passe puis vous proposer de changer votre vieux `bash shell` pour passer à `ZSH`. On dit oui!
 
-![actuive ZSH](screen/linux/screen5.png)
+![active ZSH](screen/linux/screen5.png)
 
 On redémarre l'ordinateur et pouf, ZSH est mainteant le shell par défaut. *On remarque que l'interface du terminal à changer.*
 
