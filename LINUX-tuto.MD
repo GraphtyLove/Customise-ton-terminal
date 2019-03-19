@@ -7,7 +7,7 @@ Sur `Linux` le terminal de base est mieux que sur `Windows` et `Mac`. Mais nous,
 
 # Installer ZSH
 Nous allons changer le shell *bash* de base pour passer à *ZSH* qui est plus puissant et personnalisable. Pour ce faire, Tapons la commande:
-`suo install zsh`
+`sudo apt-get install zsh`
 
 ![install ZSH](screen/linux/screen2.png)
 
@@ -58,7 +58,7 @@ Une fois dans le fichier, on va changer le thème. Il suffit de changer la valeu
 
 *`Ctrl + X` puis `y` puis `entrer` pour sauvegarder.*
 
-On quite le terminal, on le relance et la magie opère. On y est presque!
+On quitte le terminal, on le relance et la magie opère. On y est presque!
 
 ![theme changed](screen/linux/screen11.png)
 
