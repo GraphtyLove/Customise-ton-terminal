@@ -1,4 +1,4 @@
-# Cusomiser son terminal
+# Customiser son terminal
 En tant que développer on passe beaucoup de temps dans son terminal. Il est donc important (surtout quans on apprend à s'en servir) d'avoir un terminal clair dans lequel on peut tout de suite repérer dans quelle dossier on se trouve, dans quelle branche git,...
 
 Vous trouverez donc [**un tuto pour Mac**](Mac-tuto.MD) et [**un tuto pour Linux**](LINUX-tuto.MD). Quand aux utilisateurs Windows, il va falloir faire une petite manip avant qui s'appelle `installer Linux`. Puis suivre le tuto Linux 😉.
